@@ -1,0 +1,1 @@
+//helper function often for REST API call

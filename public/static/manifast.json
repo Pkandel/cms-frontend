@@ -1,0 +1,9 @@
+{
+    "name": "Strategic frontend test for finding list of words",
+    "short_name": "Frontend test",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF"
+}

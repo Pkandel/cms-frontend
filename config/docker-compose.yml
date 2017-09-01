@@ -1,0 +1,10 @@
+version: '2.0'
+services:
+  frontend:
+    environment:
+      - NODE_ENV=production
+    build: .
+    image: pkandel/symboti:latest
+
+    ports:
+      - "3000:3000"
